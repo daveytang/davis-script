@@ -8,7 +8,7 @@ fi
 
 # 定义变量
 INSTALL_DIR="/root/panabit"
-TAR_URL="https://github.com/daveytang/davis-script/main/PanabitFREE_TANGr7p5_20250901_Linux3.tar.gz"
+TAR_URL="https://github.com/daveytang/davis-script/raw/refs/heads/main/PanabitFREE_TANGr7p5_20250901_Linux3.tar.gz"
 TAR_FILE="${INSTALL_DIR}/PanabitFREE_TANGr7p5_20250901_Linux3.tar.gz"
 EXTRACT_DIR="${INSTALL_DIR}/PanabitFREE_TANGr7p5_20250901_Linux3"
 
